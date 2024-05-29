@@ -50,4 +50,4 @@ For detailed instructions on installing the ILC, setting up the necessary driver
 
 ## Contact
 
-For further assistance or inquiries, please contact the development team at [email@example.com].
+For further assistance or inquiries, please contact me through my site, https://grantdpowell.github.io/contact.html
