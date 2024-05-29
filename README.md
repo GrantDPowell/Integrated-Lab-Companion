@@ -1,6 +1,6 @@
 # Integrated Lab Companion (ILC)
 
-![ILC board](https://github.com/OkimaSha/Integrated-Lab-Companion/blob/main/Images/Thumbnail.png)
+![ILC board](https://github.com/GrantDPowell/Integrated-Lab-Companion/blob/main/Images/Thumbnail.png)
 
 ## Overview
 
