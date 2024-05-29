@@ -1,5 +1,7 @@
 # Integrated Lab Companion (ILC)
 
+![ILC board](https://github.com/OkimaSha/Integrated-Lab-Companion/blob/main/Images/Thumbnail.png)
+
 ## Overview
 
 The Integrated Lab Companion (ILC) is a sophisticated tool designed to enhance the experimental capabilities of electrical and computer engineering laboratories. Developed as a capstone project at the University of Tennessee at Chattanooga, the ILC streamlines laboratory processes and integrates advanced technical features to support both students and instructors.
