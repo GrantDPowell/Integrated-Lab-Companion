@@ -1,6 +1,14 @@
-# Integrated Lab Companion (ILC)
+
 
 ![ILC board](https://github.com/GrantDPowell/Integrated-Lab-Companion/blob/main/Images/Thumbnail.png)
+
+# OUTDATED & REBRANDED 
+
+The ILC has been rebranded as the Digilab One, please refer to [Digilab DOCS](https://docs.parleii.com/about/aboutus).
+
+The Installable software is also outdated, please refer to [Digilab Software](https://digilab-one.parleii.com).
+
+## Integrated Lab Companion (ILC)
 
 ## Overview
 
