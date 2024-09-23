@@ -4,9 +4,9 @@
 
 # OUTDATED & REBRANDED 
 
-# The ILC has been rebranded as the Digilab One, please refer to [Digilab DOCS](https://docs.parleii.com/about/aboutus).
+# The ILC has been rebranded as the [Digilab One DOCS](https://docs.parleii.com/about/aboutus).
 
-# The Installable software is also outdated, please refer to [Digilab Software](https://digilab-one.parleii.com).
+# The Installable software is outdated [Digilab Software](https://digilab-one.parleii.com).
 
 ## Integrated Lab Companion (ILC)
 
